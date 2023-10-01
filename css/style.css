@@ -1,0 +1,124 @@
+.wrapper {
+    width: 1336px;
+    margin:0px auto;
+}
+.title {
+    width: 760px;
+    margin: 0px auto;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+.our-team {
+    color: #282828;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    padding: 0px 310px;
+    word-wrap: break-word;
+}
+.txt-meet {
+   color: #282828;
+   font-size: 54px;
+   font-family: 'Inter', sans-serif;
+   font-weight: 600;
+   word-wrap: break-word;
+   margin-top: 4px;
+   margin-bottom: 16px;
+}
+.xtx1 {
+   color: #5F6980;
+   font-size: 20px;
+   font-family: 'Inter', sans-serif;
+   font-weight: 400;
+   word-wrap: break-word;
+   text-align: center;
+   padding: 108px 288px 0px 288px;
+
+}
+
+.box1 {
+    width: 310px;
+    height: 430px;
+    border: 1px;
+    padding: 0px 0px 16px 0px;
+}
+.icon1 {
+    width: 36px;
+    height: 36px;
+    border-radius: 100px;
+    background-color: #F2F4F7;
+}
+.icons {
+    display: flex;
+    column-gap: 16px;
+}
+.jocelyn {
+    color: #282828;
+    size: 16px;
+    font-family: 'Inter', sans-serif;
+    margin-top: 16px;
+    margin-bottom: 4px;
+    padding: 0 16px 0 16px;
+}
+.sofwear {
+    color: #3E3E59;
+    size: 14px;
+    padding: 0 16px 0 16px;
+}
+.text {
+    color: #5F6980;
+    size: 14px;
+    margin: 8px 0 24px 0;
+    padding: 0 16px 0 16px;
+}
+.CONTEINER {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 908px;
+    align-content: space-between;
+
+}
+.footer {
+    background-color: #53535354;
+    width: 1654px;
+    height: 512px;
+    display: flex;
+}
+.div1 {
+    width: 318.05px;
+    height: 221px;
+    top: 108px;
+    left: 164px;
+}
+.div2 {
+    width: 136px;
+    height: 223px;
+    top: 108px;
+    left: 627px;
+}
+.div3 {
+    width: 199px;
+    height: 223px;
+    top: 108px;
+    left: 1017px;
+}
+.div4 {
+    width: 107px;
+    height: 127.45px;
+    top: 108px;
+    left: 1363px;
+}
+.div-conteiner {
+    align-content: space-between;
+    justify-content: space-between;
+    width: 1306px;
+    height: 223px;
+    top: 108px;
+    left: 164px;
+    display: flex;
+}
+.team-info {
+    display: flex;
+    flex-wrap: wrap;
+}
